@@ -1078,5 +1078,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-mongodb+srv://nedop17612:ZnXnERM6swVt16gc@cluster0.hhq4k.mongodb.net/
+    
